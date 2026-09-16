@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "ဆိုးလ် ဘောလုံးအသင်း VS ပါရ် စစ် ဗ် ဘန် ဒုန်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789579502-0-0-b76dca4431ed8921ab96f8974ddb07e0"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789579682-0-0-8b8d675e0bbf11d35c8460d87eaf2743"
       }
     ]
   },
@@ -27,13 +27,13 @@
     "league": "AFC Champions League Elite",
     "match_time": "2026-09-16T16:30:00+08:00",
     "match_status": true,
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "ဂျွန်ဘု(ခ်) ဟွန်ဒယ် မိုးတားစ် VS ကာရှီဝါ ရေးဆိုလ်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789579502-0-0-e9529cdd13eee06d813ab9a0547a64f7"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789579682-0-0-21b6cc4cd0cb11d10054dbc2df7bc5be"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "တရုတ် U23 VS North Korea U23",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789579502-0-0-986464f9853d6fc1a6787b4a3748bccd"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789579682-0-0-923e16231318dff6ee03e7f16026fee3"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Veres Rivne U19 VS Metalurh Zaporozhya U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789579502-0-0-d680c5a101b017948b8b659a00cb9cfb"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789579682-0-0-8773ff91a85055cbb66b757e66173caf"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "ဂျပန် ယူ_၂၃ VS ဟောင်ကောင် ယူ ၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789579502-0-0-b3e2590e1af01bf70a91a1ea315fa8c5"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789579682-0-0-c2b916fc2bd97d31aa3d948138470d35"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "MTK Hungaria FC Women VS Ujpest FC Women",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e78.m3u8?auth_key=1789579502-0-0-2c9fa90c92073c54d58c4e498a82d7bd"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e78.m3u8?auth_key=1789579682-0-0-5875ce9d954946d8eb12e24b02a2ebbe"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "Sinopspor VS Arit Kayadibi",
-        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc06.m3u8?auth_key=1789579502-0-0-ee1a4d4b99fb421818c8dcdc46298b5f"
+        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc06.m3u8?auth_key=1789579682-0-0-1ecdf7c00f4036288625f60ad9011345"
       }
     ]
   },
@@ -147,7 +147,83 @@
     "links": [
       {
         "name": "Pecsi MFC (w) VS Astra Hungary Women",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e77.m3u8?auth_key=1789579502-0-0-b2406069dea1c6f7217f44fa17985663"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e77.m3u8?auth_key=1789579682-0-0-fbae4521a52e28dd5ba09d69c3f88461"
+      }
+    ]
+  },
+  {
+    "id": "53459",
+    "home_name": "Shenzhen Jixiang",
+    "home_img": "https://s.fmp.live/live/teams/logos/80470.png",
+    "away_name": "Jiangsu Changjin",
+    "away_img": "https://s.fmp.live/live/teams/logos/92367.png",
+    "league": "CFA Member Champions League",
+    "match_time": "2026-09-16T18:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ရှန်ကျန့် ကျိရှန်း VS Jiangsu Changjin",
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6c.m3u8?auth_key=1789579682-0-0-b85cd8bc88fc3fe7b1368a3529c90cfb"
+      }
+    ]
+  },
+  {
+    "id": "53460",
+    "home_name": "Xingtai Wanshuai",
+    "home_img": "https://s.fmp.live/live/teams/logos/92776.png",
+    "away_name": "Dalian Juxing Shengheng",
+    "away_img": "https://s.fmp.live/live/teams/logos/92782.png",
+    "league": "CFA Member Champions League",
+    "match_time": "2026-09-16T18:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Xingtai Wanshuai VS Dalian Juxing Shengheng",
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6e.m3u8?auth_key=1789579682-0-0-ea81a542b2bce23fe01547a7e9189995"
+      }
+    ]
+  },
+  {
+    "id": "53461",
+    "home_name": "Qingdao Fuli",
+    "home_img": "https://s.fmp.live/live/teams/logos/91912.png",
+    "away_name": "Liaoning Shengjing Xinrui",
+    "away_img": "https://s.fmp.live/live/teams/logos/92780.png",
+    "league": "CFA Member Champions League",
+    "match_time": "2026-09-16T18:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "Qingdao Fuli VS Liaoning Shengjing Xinrui",
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6f.m3u8?auth_key=1789579682-0-0-ecb301bb78e0c2bd6bebb9967d85a1b4"
+      }
+    ]
+  },
+  {
+    "id": "53462",
+    "home_name": "Yulin Mobei Miners",
+    "home_img": "https://s.fmp.live/live/teams/logos/87578.png",
+    "away_name": "Xinjiang Bingchao",
+    "away_img": "https://s.fmp.live/live/teams/logos/89583.png",
+    "league": "CFA Member Champions League",
+    "match_time": "2026-09-16T18:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ရှမ်းရှီ မိုဘေး မိုင်နာ့စ် VS ရှင်းကျန်း ပင်ချောင်",
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e70.m3u8?auth_key=1789579682-0-0-89e1c71b0c3dc5c6c3b56d9e6f22c6a9"
       }
     ]
   }

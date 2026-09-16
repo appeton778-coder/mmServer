@@ -14,26 +14,7 @@
     "links": [
       {
         "name": "FC Kharkiv U19 VS Polissya Zhytomyr U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789573142-0-0-0ff0b05d2f676bc253cfe0d0ad75b477"
-      }
-    ]
-  },
-  {
-    "id": "53447",
-    "home_name": "Khovd Western",
-    "home_img": "https://s.fmp.live/live/teams/logos/57034.png",
-    "away_name": "Ulaangom City",
-    "away_img": "https://s.fmp.live/live/teams/logos/89469.png",
-    "league": "Mongolia Premier League",
-    "match_time": "2026-09-16T14:30:00+08:00",
-    "match_status": true,
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "Khovd Western VS ဥလန်းგომ် မြို့ ဘောလုံးကလပ်",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524424.m3u8?auth_key=1789573142-0-0-77459af70c08194f5f7b91c299e8d694"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789573381-0-0-be77ca6c179c2353d7c5ad0ae41f8843"
       }
     ]
   },
@@ -52,7 +33,7 @@
     "links": [
       {
         "name": "စီရန် အက်ဖ်စီ VS Thimphu Raven FC",
-        "url": "https://pull.fmp.live/sla/1-6a915536cc54bda3f6630063.m3u8?auth_key=1789573142-0-0-38af9a1e954e3213557245a07538799d"
+        "url": "https://pull.fmp.live/sla/1-6a915536cc54bda3f6630063.m3u8?auth_key=1789573381-0-0-1740ba6125cdc9ed5c25f1b20ecf2193"
       }
     ]
   },
@@ -65,13 +46,13 @@
     "league": "Ukrainian U19 Liga",
     "match_time": "2026-09-16T15:30:00+08:00",
     "match_status": true,
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Dinamo Kyiv U19 VS Lviv U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789573142-0-0-87c067a2f8bd35a9b849b3354f1cd88a"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789573381-0-0-ff30d3fdb2fde813192e06a97afa6c87"
       }
     ]
   }

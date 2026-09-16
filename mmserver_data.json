@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "ဂျပန် ယူ_၂၃ VS ဟောင်ကောင် ယူ ၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789582681-0-0-ca4d7bdb8b9ec6efb4ef308cfabd4945"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789582862-0-0-1f4ac82058c689493aaf05e685cf5531"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "MTK Hungaria FC Women VS Ujpest FC Women",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e78.m3u8?auth_key=1789582681-0-0-9c627a4b5234f1fc856ded39b57b8d6b"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e78.m3u8?auth_key=1789582862-0-0-7a59be902c9a53a8359f1169e61e9648"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Sinopspor VS Arit Kayadibi",
-        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc06.m3u8?auth_key=1789582681-0-0-59d2045069c953f332889eb6eef1308a"
+        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc06.m3u8?auth_key=1789582862-0-0-c4185792d792f94dcfb1bcd3f2f28eca"
       }
     ]
   },
@@ -71,7 +71,26 @@
     "links": [
       {
         "name": "Pecsi MFC (w) VS Astra Hungary Women",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e77.m3u8?auth_key=1789582681-0-0-ea7c9d673303d4a7e2db02c69c23774e"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e77.m3u8?auth_key=1789582862-0-0-69aba358da5f62398a460a9c3498eb34"
+      }
+    ]
+  },
+  {
+    "id": "53458",
+    "home_name": "Port FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/21067.png",
+    "away_name": "Vissel Kobe",
+    "away_img": "https://s.fmp.live/live/teams/logos/10070.png",
+    "league": "AFC Champions League Elite",
+    "match_time": "2026-09-16T18:45:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": " ပို့တ် အက်ဖ်စီ vs ဗစ်ဆယ်(လ်) ကိုဘဲ",
+        "url": "https://pull.fmp.live/live/live_53458_lud.m3u8?auth_key=1789569311-0-0-decdd036bb5c87717589d4269e30c863"
       }
     ]
   },
@@ -86,11 +105,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "ရှန်ကျန့် ကျိရှန်း VS Jiangsu Changjin",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6c.m3u8?auth_key=1789582681-0-0-bd86fcdfa2c012d244a627c8ecadb577"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6c.m3u8?auth_key=1789582862-0-0-5db6e6b6cd5996a2dfbd9bd596f8903f"
       }
     ]
   },
@@ -103,13 +122,13 @@
     "league": "CFA Member Champions League",
     "match_time": "2026-09-16T18:00:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Xingtai Wanshuai VS Dalian Juxing Shengheng",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6e.m3u8?auth_key=1789582681-0-0-543844c9f0e27efb11cebe20f02ba268"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6e.m3u8?auth_key=1789582862-0-0-a104bf94e1e255afed1cfa933ca44ce5"
       }
     ]
   },
@@ -124,11 +143,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Qingdao Fuli VS Liaoning Shengjing Xinrui",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6f.m3u8?auth_key=1789582681-0-0-53bc5f3fddd9eab9918990341b5142a1"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6f.m3u8?auth_key=1789582862-0-0-a4ad4095b39855d8e05aa79a7d737865"
       }
     ]
   },
@@ -143,11 +162,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "ရှမ်းရှီ မိုဘေး မိုင်နာ့စ် VS ရှင်းကျန်း ပင်ချောင်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e70.m3u8?auth_key=1789582681-0-0-d88c3c20564efaa73d4dc1b17ef7b00c"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e70.m3u8?auth_key=1789582862-0-0-bf8fdd13a795959a2078069609beeb82"
       }
     ]
   },
@@ -162,11 +181,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 2,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Obolon Brovar Kiev U19 VS FC Livyi Bereh U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524427.m3u8?auth_key=1789582681-0-0-825247ee9784da94b7399fd6b820452d"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524427.m3u8?auth_key=1789582862-0-0-a07b3b8a778ca2f4d7ad59f03c01ee23"
       }
     ]
   },
@@ -179,13 +198,13 @@
     "league": "Ukrainian U19 Liga",
     "match_time": "2026-09-16T18:00:00+08:00",
     "match_status": true,
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Rukh Vynnyky U19 VS Oleksandria U19",
-        "url": "https://pull.fmp.live/sla/1-6aa58c4d6bf7688dc38f61f9.m3u8?auth_key=1789582681-0-0-0e2caf1ed75d040b2a2d8b184a901769"
+        "url": "https://pull.fmp.live/sla/1-6aa58c4d6bf7688dc38f61f9.m3u8?auth_key=1789582862-0-0-ceee0d23439d0e45f7063249d4159a74"
       }
     ]
   },
@@ -204,7 +223,7 @@
     "links": [
       {
         "name": "ကူလ်းကစ်ဗ် VS Veres",
-        "url": "https://pull.fmp.live/sla/1-6a988774e4f896100f19964a.m3u8?auth_key=1789582681-0-0-381b22d4beee724c14588fad23b56585"
+        "url": "https://pull.fmp.live/sla/1-6a988774e4f896100f19964a.m3u8?auth_key=1789582862-0-0-72cdfd6d99271ef35d0630667a289a56"
       }
     ]
   },
@@ -223,7 +242,7 @@
     "links": [
       {
         "name": "သဲ ကုံ ဗီယက်ထဲလ် VS မဲလ်ဘုန်း ဗစ်ထရီ",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e7b.m3u8?auth_key=1789582681-0-0-686af755c1e6e4f316d054af8f4115f5"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e7b.m3u8?auth_key=1789582862-0-0-969b1d3f1d45af509f1743276c8c3dac"
       }
     ]
   },
@@ -242,7 +261,7 @@
     "links": [
       {
         "name": "ပို့တ် အက်ဖ်စီ VS ဗစ်ဆယ်(လ်) ကိုဘဲ",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e7a.m3u8?auth_key=1789582681-0-0-2862444ed667ec39a0d0c62ce257b49d"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e7a.m3u8?auth_key=1789582862-0-0-aa909278ad0d17f13d8a83a5b2570ac3"
       }
     ]
   },
@@ -261,7 +280,7 @@
     "links": [
       {
         "name": "FK Eskhata VS FC Istaravshan",
-        "url": "https://pull.fmp.live/sla/1-6a79ee81b630e987f376218e.m3u8?auth_key=1789582681-0-0-65c098dab30bd0a8c35ccf99083ca458"
+        "url": "https://pull.fmp.live/sla/1-6a79ee81b630e987f376218e.m3u8?auth_key=1789582862-0-0-6a8725fe096051b9903747509729c9ef"
       }
     ]
   }

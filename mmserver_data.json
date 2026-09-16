@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Dinamo Kyiv U19 VS Lviv U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789574402-0-0-d3cf0b2008323256e2252e0add0ad80d"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789574642-0-0-5e0d9ef5dccd7c7aacc92a2cb3c69c8a"
       }
     ]
   },
@@ -26,14 +26,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/26310.png",
     "league": "AFC Champions League Two",
     "match_time": "2026-09-16T16:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဆိုးလ် ဘောလုံးအသင်း VS ပါရ် စစ် ဗ် ဘန် ဒုန်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789574402-0-0-d8eb4e9326716fe859e3178fab15a4a3"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789574642-0-0-bd896b4b853a7a9c94c1db8545d716f2"
       }
     ]
   },
@@ -45,14 +45,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/10380.png",
     "league": "AFC Champions League Elite",
     "match_time": "2026-09-16T16:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဂျွန်ဘု(ခ်) ဟွန်ဒယ် မိုးတားစ် VS ကာရှီဝါ ရေးဆိုလ်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789574402-0-0-63afbe12ea5cbb8f32fb08164ddc18d0"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789574642-0-0-e210bd6090c20784de3d30b0451f1f08"
       }
     ]
   },
@@ -64,14 +64,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/19159.png",
     "league": "OCA Asian Games",
     "match_time": "2026-09-16T16:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "တရုတ် U23 VS North Korea U23",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789574402-0-0-923d8f239160663c15bc5b924556cd7e"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789574642-0-0-398410e1246c32919c03df99336782bd"
       }
     ]
   }

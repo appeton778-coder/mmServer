@@ -10,11 +10,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 1,
-    "status": "HALF_TIME",
+    "status": "SECOND_HALF",
     "links": [
       {
         "name": "FC Kharkiv U19 VS Polissya Zhytomyr U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789571161-0-0-0cc63427da206db86f947cb00971d025"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789571342-0-0-c0fb1850db96fc76c9d9d78c27140ba8"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "Khovd Western VS ဥလန်းგომ် မြို့ ဘောလုံးကလပ်",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524424.m3u8?auth_key=1789571161-0-0-2c6bc8f5cd2911b5f2c6e5299983cec9"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524424.m3u8?auth_key=1789571342-0-0-0167ceed3a3c76c720d5f45dc9cfcb10"
       }
     ]
   }

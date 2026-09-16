@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Veres Rivne U19 VS Metalurh Zaporozhya U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789581302-0-0-fc9041ad39ce8e37f89a797a5c45b0db"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789581482-0-0-bdc7d97120eef29c6e4b46b9f3928e1c"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဂျပန် ယူ_၂၃ VS ဟောင်ကောင် ယူ ၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789581302-0-0-8e2e882faa3e19fd92c05c8def34004a"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789581482-0-0-21284cd64a1b262531898ee24771052e"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "MTK Hungaria FC Women VS Ujpest FC Women",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e78.m3u8?auth_key=1789581302-0-0-4b0340a5594ca570563359f12b3de671"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e78.m3u8?auth_key=1789581482-0-0-b17a877c13071b7d76b0f9890b1eafde"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Sinopspor VS Arit Kayadibi",
-        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc06.m3u8?auth_key=1789581302-0-0-9e51d2d1b8cd4c49883fa376ad33ec04"
+        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc06.m3u8?auth_key=1789581482-0-0-b010ba8e3c40da077ee5f4c09e847976"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "Pecsi MFC (w) VS Astra Hungary Women",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e77.m3u8?auth_key=1789581302-0-0-5d7f360b05c7bddce2e721afeaa2bbb6"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e77.m3u8?auth_key=1789581482-0-0-43b38bd6447b2923a4442856731145be"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "ရှန်ကျန့် ကျိရှန်း VS Jiangsu Changjin",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6c.m3u8?auth_key=1789581302-0-0-02864a622749c29423a23730c2a687c1"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6c.m3u8?auth_key=1789581421-0-0-a1b72abb7b8605b0cefa75c76fea7ca2"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "Xingtai Wanshuai VS Dalian Juxing Shengheng",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6e.m3u8?auth_key=1789581302-0-0-100024c99e61585abfc98587d6669242"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6e.m3u8?auth_key=1789581421-0-0-d3ba65fe3c194404da2401adccde6328"
       }
     ]
   },
@@ -147,7 +147,7 @@
     "links": [
       {
         "name": "Qingdao Fuli VS Liaoning Shengjing Xinrui",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6f.m3u8?auth_key=1789581302-0-0-28ad5a42eaffe2536b09fce5d32a78f5"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6f.m3u8?auth_key=1789581421-0-0-35b8faff0762b68b316db369c657794e"
       }
     ]
   },
@@ -166,7 +166,26 @@
     "links": [
       {
         "name": "ရှမ်းရှီ မိုဘေး မိုင်နာ့စ် VS ရှင်းကျန်း ပင်ချောင်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e70.m3u8?auth_key=1789581302-0-0-78ef52bed45abede5361ca2f56a9dc03"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e70.m3u8?auth_key=1789581421-0-0-c858e24ec3ae08c7dd030b23ec2d2c7d"
+      }
+    ]
+  },
+  {
+    "id": "53463",
+    "home_name": "Obolon Brovar Kiev U19",
+    "home_img": "https://s.fmp.live/live/teams/logos/43028.png",
+    "away_name": "FC Livyi Bereh U19",
+    "away_img": "https://s.fmp.live/live/teams/logos/95151.png",
+    "league": "Ukrainian U19 Liga",
+    "match_time": "2026-09-16T18:00:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Obolon Brovar Kiev U19 VS FC Livyi Bereh U19",
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524427.m3u8?auth_key=1789581421-0-0-d3e9dec3dcd019c6f59a77fed220c3a1"
       }
     ]
   },
@@ -185,7 +204,26 @@
     "links": [
       {
         "name": "Rukh Vynnyky U19 VS Oleksandria U19",
-        "url": "https://pull.fmp.live/sla/1-6aa58c4d6bf7688dc38f61f9.m3u8?auth_key=1789581302-0-0-5646729e4fc1ac251fa8a4337716beab"
+        "url": "https://pull.fmp.live/sla/1-6aa58c4d6bf7688dc38f61f9.m3u8?auth_key=1789581421-0-0-a58fa388439d2e775020156df8283153"
+      }
+    ]
+  },
+  {
+    "id": "53465",
+    "home_name": "Kulykiv",
+    "home_img": "https://s.fmp.live/live/teams/logos/85101.png",
+    "away_name": "Veres ",
+    "away_img": "https://s.fmp.live/live/teams/logos/22593.png",
+    "league": "Ukrainian Cup",
+    "match_time": "2026-09-16T18:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ကူလ်းကစ်ဗ် VS Veres",
+        "url": "https://pull.fmp.live/sla/1-6a988774e4f896100f19964a.m3u8?auth_key=1789581421-0-0-6ea04f12379af7a7ad3f2e257c763637"
       }
     ]
   }

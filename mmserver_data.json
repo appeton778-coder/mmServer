@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Dinamo Kyiv U19 VS Lviv U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789574822-0-0-8d891ad0ba11f5870ebfc589f767eb78"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789574941-0-0-87f1caeee97759f0752840f606f4ce1e"
       }
     ]
   },
@@ -28,12 +28,12 @@
     "match_time": "2026-09-16T16:30:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "ဆိုးလ် ဘောလုံးအသင်း VS ပါရ် စစ် ဗ် ဘန် ဒုန်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789574822-0-0-b5e85294c7ebbcc7980f84f57fa7e944"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789574941-0-0-9b96bc2004e9ad7bc18b217d8ac71e4d"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "ဂျွန်ဘု(ခ်) ဟွန်ဒယ် မိုးတားစ် VS ကာရှီဝါ ရေးဆိုလ်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789574822-0-0-aab74814d26b9ddf2a94c862d79d5d43"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789574941-0-0-4e6b0037ee8fe02a104480c4618effdf"
       }
     ]
   },
@@ -71,7 +71,26 @@
     "links": [
       {
         "name": "တရုတ် U23 VS North Korea U23",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789574822-0-0-a1d615817aad4490f617556cc30e5544"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789574941-0-0-6416c7436cfda499a0bf40b5fb620713"
+      }
+    ]
+  },
+  {
+    "id": "53453",
+    "home_name": "Veres Rivne U19",
+    "home_img": "https://s.fmp.live/live/teams/logos/40363.png",
+    "away_name": "Metalurh Zaporozhya U19",
+    "away_img": "https://s.fmp.live/live/teams/logos/25311.jpg",
+    "league": "Ukrainian U19 Liga",
+    "match_time": "2026-09-16T16:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Veres Rivne U19 VS Metalurh Zaporozhya U19",
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789574941-0-0-9e0a31ae082be6cf065775ebb1f729f8"
       }
     ]
   }

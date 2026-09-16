@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Thailand U23 VS Kyrgyzstan U23",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e5f.m3u8?auth_key=1789567562-0-0-37108b4fcd76336fcc617da80590c2ab"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e5f.m3u8?auth_key=1789567741-0-0-32fa18ac673f075823e64b84b39794d5"
       }
     ]
   },
@@ -26,14 +26,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/43023.png",
     "league": "Ukrainian U19 Liga",
     "match_time": "2026-09-16T14:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "FC Kharkiv U19 VS Polissya Zhytomyr U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789567562-0-0-24c095ec12ab77d8a53eaf2dd9dc14de"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789567741-0-0-98da22715a0009c36417f9dc4682514f"
       }
     ]
   },
@@ -46,13 +46,13 @@
     "league": "Mongolia Premier League",
     "match_time": "2026-09-16T14:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Khovd Western VS ဥလန်းგომ် မြို့ ဘောလုံးကလပ်",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524424.m3u8?auth_key=1789567562-0-0-6c9c9b19e9d483bf8c23aacaf3225a56"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524424.m3u8?auth_key=1789567741-0-0-c9fd98ca82dde0f89237c014b8a09eea"
       }
     ]
   }

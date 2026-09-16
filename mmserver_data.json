@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "ဆိုးလ် ဘောလုံးအသင်း VS ပါရ် စစ် ဗ် ဘန် ဒုန်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789580701-0-0-74256b87d148c97f70fb69e935c03b92"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789580942-0-0-99823a8be11c41aa3d9d3303abd5cabe"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဂျွန်ဘု(ခ်) ဟွန်ဒယ် မိုးတားစ် VS ကာရှီဝါ ရေးဆိုလ်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789580701-0-0-dacfdd7777fb719e6a0c44189cbe2011"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789580942-0-0-1b84bb4dc7a354c914becac81ab675a9"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "တရုတ် U23 VS North Korea U23",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789580701-0-0-433437e07fbc4ffdbdf7b94dd976788b"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789580942-0-0-c67dcf4b155d7d3e311ff0e1070da1f8"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Veres Rivne U19 VS Metalurh Zaporozhya U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789580701-0-0-0eec23f2881312eb35e91f1e13dce704"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789580942-0-0-86bfae8c37dbbe9b2f1750ac2f6af844"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "ဂျပန် ယူ_၂၃ VS ဟောင်ကောင် ယူ ၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789580701-0-0-6ae0dac6e5a355775187d1958454431c"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789580942-0-0-af9d0a84d1ff2ca29664861840056095"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "MTK Hungaria FC Women VS Ujpest FC Women",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e78.m3u8?auth_key=1789580701-0-0-2a18486d35bdbde931e28236802d675e"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e78.m3u8?auth_key=1789580942-0-0-4384594d2a7f2e08e5e0b942c091d9f2"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "Sinopspor VS Arit Kayadibi",
-        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc06.m3u8?auth_key=1789580701-0-0-f4d5e4a44ad97fe73258e0c6c24b65e3"
+        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc06.m3u8?auth_key=1789580942-0-0-6894a4bc99dc59f5ccc26be492ad9248"
       }
     ]
   },
@@ -143,11 +143,11 @@
     "match_status": true,
     "homeScore": 1,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Pecsi MFC (w) VS Astra Hungary Women",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e77.m3u8?auth_key=1789580701-0-0-a2c4b4cdbb264e5feb381e39cdddca0a"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e77.m3u8?auth_key=1789580942-0-0-5da08f58ca9f3ac6808dab37d2d603ba"
       }
     ]
   },
@@ -166,7 +166,7 @@
     "links": [
       {
         "name": "ရှန်ကျန့် ကျိရှန်း VS Jiangsu Changjin",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6c.m3u8?auth_key=1789580701-0-0-08ae9b424d2fe2b17bfc2177b564eb4c"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6c.m3u8?auth_key=1789580942-0-0-e22762ed3f9f14a9c93402b5c1dff938"
       }
     ]
   },
@@ -185,7 +185,7 @@
     "links": [
       {
         "name": "Xingtai Wanshuai VS Dalian Juxing Shengheng",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6e.m3u8?auth_key=1789580701-0-0-899b128530fdb7feb3dcf4e15407563c"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6e.m3u8?auth_key=1789580942-0-0-d472f1ca7d878cb2c3be0bead81f798e"
       }
     ]
   },
@@ -204,7 +204,7 @@
     "links": [
       {
         "name": "Qingdao Fuli VS Liaoning Shengjing Xinrui",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6f.m3u8?auth_key=1789580701-0-0-3e8136112e6f52f145082f4a20fd2675"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e6f.m3u8?auth_key=1789580942-0-0-6a7e5f957f891427a557562710a494d7"
       }
     ]
   },
@@ -223,7 +223,7 @@
     "links": [
       {
         "name": "ရှမ်းရှီ မိုဘေး မိုင်နာ့စ် VS ရှင်းကျန်း ပင်ချောင်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e70.m3u8?auth_key=1789580701-0-0-d1ada379a9399f3f904fb86b619d3fd3"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e70.m3u8?auth_key=1789580942-0-0-aa314d6c0bf72a208d1677ee105edd16"
       }
     ]
   },
@@ -242,7 +242,7 @@
     "links": [
       {
         "name": "Obolon Brovar Kiev U19 VS FC Livyi Bereh U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524427.m3u8?auth_key=1789580701-0-0-e880c54532355d00661120465fa16899"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524427.m3u8?auth_key=1789580942-0-0-70c08bde442b54cd5e9a7f3febc948a5"
       }
     ]
   },
@@ -261,7 +261,7 @@
     "links": [
       {
         "name": "Rukh Vynnyky U19 VS Oleksandria U19",
-        "url": "https://pull.fmp.live/sla/1-6aa58c4d6bf7688dc38f61f9.m3u8?auth_key=1789580701-0-0-71b433152f91ab60f4293db137cdfd78"
+        "url": "https://pull.fmp.live/sla/1-6aa58c4d6bf7688dc38f61f9.m3u8?auth_key=1789580881-0-0-23b3a43d7f765283018a96fe96294dec"
       }
     ]
   }

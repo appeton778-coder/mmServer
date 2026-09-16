@@ -14,26 +14,45 @@
     "links": [
       {
         "name": "FC Kharkiv U19 VS Polissya Zhytomyr U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789573682-0-0-a920256bb04afbf746ee2cfff206d5c6"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789573922-0-0-6a21328ff9c627411d0db536859e47a0"
       }
     ]
   },
   {
-    "id": "53449",
-    "home_name": "Dinamo Kyiv U19",
-    "home_img": "https://s.fmp.live/live/teams/logos/31285.png",
-    "away_name": "Lviv U19",
-    "away_img": "https://s.fmp.live/live/teams/logos/40243.png",
-    "league": "Ukrainian U19 Liga",
-    "match_time": "2026-09-16T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 2,
+    "id": "53450",
+    "home_name": "FC Seoul",
+    "home_img": "https://s.fmp.live/live/teams/logos/10305.png",
+    "away_name": "Persib Bandung",
+    "away_img": "https://s.fmp.live/live/teams/logos/26310.png",
+    "league": "AFC Champions League Two",
+    "match_time": "2026-09-16T16:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "NOT_STARTED",
     "links": [
       {
-        "name": "Dinamo Kyiv U19 VS Lviv U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789573682-0-0-0b98217a09378055d1e288afa48347d3"
+        "name": "ဆိုးလ် ဘောလုံးအသင်း VS ပါရ် စစ် ဗ် ဘန် ဒုန်",
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789573922-0-0-37091e555466868546ae03081a6ca658"
+      }
+    ]
+  },
+  {
+    "id": "53451",
+    "home_name": "Jeonbuk Hyundai Motors",
+    "home_img": "https://s.fmp.live/live/teams/logos/10238.png",
+    "away_name": "Kashiwa Reysol",
+    "away_img": "https://s.fmp.live/live/teams/logos/10380.png",
+    "league": "AFC Champions League Elite",
+    "match_time": "2026-09-16T16:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ဂျွန်ဘု(ခ်) ဟွန်ဒယ် မိုးတားစ် VS ကာရှီဝါ ရေးဆိုလ်",
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789573922-0-0-c25de987ed503e8e65a125c0dbc3e3fe"
       }
     ]
   }

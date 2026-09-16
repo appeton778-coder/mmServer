@@ -7,10 +7,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/74040.png",
     "league": "OCA Asian Games",
     "match_time": "2026-09-16T17:00:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 2,
     "awayScore": 0,
-    "status": "SECOND_HALF",
+    "status": "OPENED",
     "links": [
       {
         "name": "ဂျပန် ယူ_၂၃ VS ဟောင်ကောင် ယူ ၂၃",
@@ -26,10 +26,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/23299.png",
     "league": "Hungary Women's Division 1 League",
     "match_time": "2026-09-16T17:30:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 1,
     "awayScore": 0,
-    "status": "SECOND_HALF",
+    "status": "OPENED",
     "links": [
       {
         "name": "MTK Hungaria FC Women VS Ujpest FC Women",
@@ -45,10 +45,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/95416.png",
     "league": "Turkish Cup",
     "match_time": "2026-09-16T17:30:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 1,
-    "status": "SECOND_HALF",
+    "status": "OPENED",
     "links": [
       {
         "name": "Sinopspor VS Arit Kayadibi",
@@ -64,10 +64,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/30275.jpg",
     "league": "Hungary Women's Division 1 League",
     "match_time": "2026-09-16T17:30:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 1,
     "awayScore": 0,
-    "status": "SECOND_HALF",
+    "status": "OPENED",
     "links": [
       {
         "name": "Pecsi MFC (w) VS Astra Hungary Women",
@@ -121,10 +121,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/92782.png",
     "league": "CFA Member Champions League",
     "match_time": "2026-09-16T18:00:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 1,
     "awayScore": 0,
-    "status": "HALF_TIME",
+    "status": "OPENED",
     "links": [
       {
         "name": "Xingtai Wanshuai VS Dalian Juxing Shengheng",
@@ -140,10 +140,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/92780.png",
     "league": "CFA Member Champions League",
     "match_time": "2026-09-16T18:00:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "HALF_TIME",
+    "status": "OPENED",
     "links": [
       {
         "name": "Qingdao Fuli VS Liaoning Shengjing Xinrui",
@@ -159,10 +159,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/89583.png",
     "league": "CFA Member Champions League",
     "match_time": "2026-09-16T18:00:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 1,
     "awayScore": 0,
-    "status": "HALF_TIME",
+    "status": "OPENED",
     "links": [
       {
         "name": "ရှမ်းရှီ မိုဘေး မိုင်နာ့စ် VS ရှင်းကျန်း ပင်ချောင်",
@@ -197,10 +197,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/51437.png",
     "league": "Ukrainian U19 Liga",
     "match_time": "2026-09-16T18:00:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 2,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "OPENED",
     "links": [
       {
         "name": "Rukh Vynnyky U19 VS Oleksandria U19",

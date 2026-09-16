@@ -7,10 +7,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/14605.png",
     "league": "OCA Asian Games",
     "match_time": "2026-09-16T13:30:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 1,
-    "status": "HALF_TIME",
+    "status": "OPENED",
     "links": [
       {
         "name": "Thailand U23 VS Kyrgyzstan U23",

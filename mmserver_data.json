@@ -8,13 +8,13 @@
     "league": "OCA Asian Games",
     "match_time": "2026-09-16T13:30:00+08:00",
     "match_status": true,
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Thailand U23 VS Kyrgyzstan U23",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e5f.m3u8?auth_key=1789568642-0-0-76f9192a77d76de2c8a47c238ff931bc"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e5f.m3u8?auth_key=1789568822-0-0-3207a65084d345ed44310abe07cb0593"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "FC Kharkiv U19 VS Polissya Zhytomyr U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789568642-0-0-6182addaeb95c630398a43e3aeadff88"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789568822-0-0-7c200dfd1d2ff2a3dbc4ac4a959cd4de"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Khovd Western VS ဥလန်းგომ် မြို့ ဘောလုံးကလပ်",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524424.m3u8?auth_key=1789568642-0-0-d2348abeb234c8e46688ada9b1653a8c"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524424.m3u8?auth_key=1789568822-0-0-669871e2160bf6ec040b2da582ed0a20"
       }
     ]
   }

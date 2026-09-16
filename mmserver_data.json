@@ -14,26 +14,7 @@
     "links": [
       {
         "name": "FC Kharkiv U19 VS Polissya Zhytomyr U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789573381-0-0-be77ca6c179c2353d7c5ad0ae41f8843"
-      }
-    ]
-  },
-  {
-    "id": "53448",
-    "home_name": "Tsirang FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/74959.png",
-    "away_name": "Thimphu Raven FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/34741.png",
-    "league": "Bhutan Premier League",
-    "match_time": "2026-09-16T15:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
-    "links": [
-      {
-        "name": "စီရန် အက်ဖ်စီ VS Thimphu Raven FC",
-        "url": "https://pull.fmp.live/sla/1-6a915536cc54bda3f6630063.m3u8?auth_key=1789573381-0-0-1740ba6125cdc9ed5c25f1b20ecf2193"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789573561-0-0-3815e5ba53305c9b1fd9b4e6767d7000"
       }
     ]
   },
@@ -52,7 +33,7 @@
     "links": [
       {
         "name": "Dinamo Kyiv U19 VS Lviv U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789573381-0-0-ff30d3fdb2fde813192e06a97afa6c87"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789573561-0-0-443bf1036d09a8e00e1e9ca71bc73250"
       }
     ]
   }

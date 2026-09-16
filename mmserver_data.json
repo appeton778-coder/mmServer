@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "ဆိုးလ် ဘောလုံးအသင်း VS ပါရ် စစ် ဗ် ဘန် ဒုန်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789577882-0-0-b51d96652539f881722fde6271c0c8da"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789578001-0-0-bc592f9d3ac53f842de070e37e72f269"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဂျွန်ဘု(ခ်) ဟွန်ဒယ် မိုးတားစ် VS ကာရှီဝါ ရေးဆိုလ်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789577882-0-0-e64ec41c782c857be591d38b4a7f7378"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789578001-0-0-0e33e36f933b4de83ba270b1845d2073"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "တရုတ် U23 VS North Korea U23",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789577882-0-0-47e193b8e50e62a459b89b7aad73d68b"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789578001-0-0-643630498efd1fcdb0014a6aeda5b92c"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Veres Rivne U19 VS Metalurh Zaporozhya U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789577882-0-0-c55c21643dbf0c261c8b91664482c44d"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789578001-0-0-50b9f424b39635266190a22117259e09"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "links": [
       {
         "name": "ဂျပန် ယူ_၂၃ VS ဟောင်ကောင် ယူ ၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789577882-0-0-5fec46d25350a9e966a25684b49ad2f0"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789578001-0-0-b9c1300ed1590af61bff264b5a7f5aa5"
       }
     ]
   },
@@ -102,14 +102,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/23299.png",
     "league": "Hungary Women's Division 1 League",
     "match_time": "2026-09-16T17:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "NOT_STARTED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "MTK Hungaria FC Women VS Ujpest FC Women",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e78.m3u8?auth_key=1789577882-0-0-ae4a53a862bac25b5e0df89e30ea079b"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e78.m3u8?auth_key=1789578001-0-0-39abf38247b050620e54f491088cf9fd"
       }
     ]
   },
@@ -128,7 +128,7 @@
     "links": [
       {
         "name": "Sinopspor VS Arit Kayadibi",
-        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc06.m3u8?auth_key=1789577882-0-0-c9ac724734e2ede0eb7cec678f0cdfa9"
+        "url": "https://pull.fmp.live/sla/1-6a96630093add94b37a7fc06.m3u8?auth_key=1789578001-0-0-3bc6786509dd6aebec6538347aa2f4c7"
       }
     ]
   }

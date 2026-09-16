@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Dinamo Kyiv U19 VS Lviv U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789575961-0-0-3fe94014f8fb0af5f9723da8d093681a"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789576081-0-0-91895dffd1857ce54d99c6fb15050ce6"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဆိုးလ် ဘောလုံးအသင်း VS ပါရ် စစ် ဗ် ဘန် ဒုန်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789575961-0-0-0e62a6c9a732d8594990b90bf5aa7437"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789576081-0-0-f4d2a520228047691ccd412b0fd14984"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "ဂျွန်ဘု(ခ်) ဟွန်ဒယ် မိုးတားစ် VS ကာရှီဝါ ရေးဆိုလ်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789575961-0-0-e86d2a49be31d0c48abe7b2262088a87"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789576081-0-0-f7792628f67fcd426c459214454adb38"
       }
     ]
   },
@@ -66,12 +66,12 @@
     "match_time": "2026-09-16T16:30:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "တရုတ် U23 VS North Korea U23",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789575961-0-0-f9ce699a6e8a3347dc87be771230df72"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789576081-0-0-d44ce95e5de9676594abe2bb13d6525a"
       }
     ]
   },
@@ -85,12 +85,12 @@
     "match_time": "2026-09-16T16:30:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Veres Rivne U19 VS Metalurh Zaporozhya U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789575961-0-0-120ef24187d8964f4c9607f79f3bce40"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789576081-0-0-472e1b91406487b12bde6abb3dab7e8b"
       }
     ]
   },
@@ -109,7 +109,7 @@
     "links": [
       {
         "name": "ဂျပန် ယူ_၂၃ VS ဟောင်ကောင် ယူ ၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789575961-0-0-a86dedcf74b4933e577f4dcbd18d7d12"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789576081-0-0-98199f25f3d75fd308df2cce55835acf"
       }
     ]
   }

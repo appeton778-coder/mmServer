@@ -10,11 +10,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 1,
-    "status": "HALF_TIME",
+    "status": "SECOND_HALF",
     "links": [
       {
         "name": "Thailand U23 VS Kyrgyzstan U23",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e5f.m3u8?auth_key=1789567203-0-0-6b17e7c582a259e45455a89793393a9a"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e5f.m3u8?auth_key=1789567381-0-0-32a0be167f6f404818c8187840a73515"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "FC Kharkiv U19 VS Polissya Zhytomyr U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789567203-0-0-845daa0af8e413c95ac7d09dc29e18af"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524428.m3u8?auth_key=1789567381-0-0-4d131ca092a3f8689065b4f0fd881949"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "Khovd Western VS ဥလန်းგომ် မြို့ ဘောလုံးကလပ်",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524424.m3u8?auth_key=1789567203-0-0-921cdb5178fd91177f5ecd2e30ff5679"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524424.m3u8?auth_key=1789567381-0-0-b34b33011f9c438b90d3c419f6938637"
       }
     ]
   }

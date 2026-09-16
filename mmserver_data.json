@@ -14,7 +14,7 @@
     "links": [
       {
         "name": "Dinamo Kyiv U19 VS Lviv U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789575722-0-0-2ca1dd3147aa9902f0fe0fe3e6d46e4e"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524429.m3u8?auth_key=1789575961-0-0-3fe94014f8fb0af5f9723da8d093681a"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ဆိုးလ် ဘောလုံးအသင်း VS ပါရ် စစ် ဗ် ဘန် ဒုန်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789575722-0-0-2dbb7ceced2eacc8fadd4436e441216f"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e65.m3u8?auth_key=1789575961-0-0-0e62a6c9a732d8594990b90bf5aa7437"
       }
     ]
   },
@@ -52,7 +52,7 @@
     "links": [
       {
         "name": "ဂျွန်ဘု(ခ်) ဟွန်ဒယ် မိုးတားစ် VS ကာရှီဝါ ရေးဆိုလ်",
-        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789575722-0-0-1b2771eac515a16a5b4f6911b72778c6"
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e64.m3u8?auth_key=1789575961-0-0-e86d2a49be31d0c48abe7b2262088a87"
       }
     ]
   },
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "တရုတ် U23 VS North Korea U23",
-        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789575722-0-0-3456768b424b589d26470cc9c7be08b8"
+        "url": "https://pull.fmp.live/sla/1-6a89c098fd629e492f245bb0.m3u8?auth_key=1789575961-0-0-f9ce699a6e8a3347dc87be771230df72"
       }
     ]
   },
@@ -90,7 +90,26 @@
     "links": [
       {
         "name": "Veres Rivne U19 VS Metalurh Zaporozhya U19",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789575722-0-0-5af5340a3b78e694c4749e9a2c294d86"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524426.m3u8?auth_key=1789575961-0-0-120ef24187d8964f4c9607f79f3bce40"
+      }
+    ]
+  },
+  {
+    "id": "53454",
+    "home_name": "Japan U23",
+    "home_img": "https://s.fmp.live/live/teams/logos/12330.png",
+    "away_name": "Hong Kong U23",
+    "away_img": "https://s.fmp.live/live/teams/logos/74040.png",
+    "league": "OCA Asian Games",
+    "match_time": "2026-09-16T17:00:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ဂျပန် ယူ_၂၃ VS ဟောင်ကောင် ယူ ၂၃",
+        "url": "https://pull.fmp.live/sla/1-6a89c0988f7c293f9f116e60.m3u8?auth_key=1789575961-0-0-a86dedcf74b4933e577f4dcbd18d7d12"
       }
     ]
   }

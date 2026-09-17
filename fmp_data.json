@@ -9,12 +9,12 @@
     "match_time": "2026-09-17T13:30:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Thailand Women VS Chinese Taipei Women",
-        "url": "https://pull.fmp.live/sla/1-6a8b1212bd56ad3e896dc41c.m3u8?auth_key=1789654141-0-0-aa72dad2be9af56b1bafb073f428e5e9"
+        "url": "https://pull.fmp.live/sla/1-6a8b1212bd56ad3e896dc41c.m3u8?auth_key=1789656241-0-0-54c204508c2577be6924d1f9d1dd9614"
       }
     ]
   },
@@ -28,31 +28,12 @@
     "match_time": "2026-09-17T13:30:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 5,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Bangladesh Women VS South Korea Women",
-        "url": "https://pull.fmp.live/sla/1-6a8b1212bd56ad3e896dc41b.m3u8?auth_key=1789654141-0-0-d4ea300ce0d56cc8f0408bad9acc10d9"
-      }
-    ]
-  },
-  {
-    "id": "53573",
-    "home_name": "Beijing Guoan U13",
-    "home_img": "https://s.fmp.live/live/teams/logos/88853.png",
-    "away_name": "Shanghai Shenhua U13",
-    "away_img": "https://s.fmp.live/live/teams/logos/88958.png",
-    "league": "China Youth Football League (Men's U13 Group)",
-    "match_time": "2026-09-17T13:30:00+08:00",
-    "match_status": true,
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "ပေကျင်း ကော်အန်း ယူ-၁၃ VS Shanghai Shenhua U13",
-        "url": "https://pull.fmp.live/sla/1-6aaaa7f49a962fec68532076.m3u8?auth_key=1789654141-0-0-65d7719b954dfdfcd1097c6eec35ca64"
+        "url": "https://pull.fmp.live/sla/1-6a8b1212bd56ad3e896dc41b.m3u8?auth_key=1789656241-0-0-3c482d34d6ed2ebabcbcd46c270c4818"
       }
     ]
   },
@@ -65,13 +46,13 @@
     "league": "China Youth Football League (Men's U15 Group)",
     "match_time": "2026-09-17T13:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "ဝူဟန် သရီး တောင်းစ် ယူ-၁၅ VS ပေကျင်း အမှတ် (၃) အထက်တန်းကျောင်း ယူ-၁၅",
-        "url": "https://pull.fmp.live/sla/1-6aaaa7f49a962fec68532072.m3u8?auth_key=1789654141-0-0-7f8924bee8cb4e04999b8fae710ec807"
+        "url": "https://pull.fmp.live/sla/1-6aaaa7f49a962fec68532072.m3u8?auth_key=1789656241-0-0-605c13db9890abab82a088d48a027296"
       }
     ]
   },
@@ -84,13 +65,13 @@
     "league": "Mongolia Premier League",
     "match_time": "2026-09-17T14:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FIRST_HALF",
     "links": [
       {
         "name": "Central Stallions VS Hunters FC",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524422.m3u8?auth_key=1789654141-0-0-c611fd33356903e1bb6d4f36824a1510"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524422.m3u8?auth_key=1789656241-0-0-06834c1e138aa6ed1c6d0ee3dd75f4cf"
       }
     ]
   },
@@ -109,7 +90,7 @@
     "links": [
       {
         "name": "Rebels FC VS MEG",
-        "url": "https://pull.fmp.live/sla/1-6aaa6fb614cfe5ec670de8ca.m3u8?auth_key=1789654141-0-0-80578217d34df50ae01266152e21df9b"
+        "url": "https://pull.fmp.live/sla/1-6aaa6fb614cfe5ec670de8ca.m3u8?auth_key=1789656241-0-0-58c8669c824a76cbfad09938ecf7ea2e"
       }
     ]
   }

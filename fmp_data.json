@@ -8,13 +8,13 @@
     "league": "Mongolia Premier League",
     "match_time": "2026-09-17T14:30:00+08:00",
     "match_status": true,
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Central Stallions VS Hunters FC",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524422.m3u8?auth_key=1789658761-0-0-36f205dfb85b3bf95f8c39f1e348b94d"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524422.m3u8?auth_key=1789660381-0-0-c75af6fcdf67c83cf3ad082ed0cb66df"
       }
     ]
   },
@@ -28,12 +28,12 @@
     "match_time": "2026-09-17T14:30:00+08:00",
     "match_status": true,
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Rebels FC VS MEG",
-        "url": "https://pull.fmp.live/sla/1-6aaa6fb614cfe5ec670de8ca.m3u8?auth_key=1789658761-0-0-9a2a41ae08e4cba1f6dce5a8f1b9a797"
+        "url": "https://pull.fmp.live/sla/1-6aaa6fb614cfe5ec670de8ca.m3u8?auth_key=1789660381-0-0-d5dfde0f88c8ccaab62ad0459bf31137"
       }
     ]
   },
@@ -46,13 +46,89 @@
     "league": "International Friendly",
     "match_time": "2026-09-17T15:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FIRST_HALF",
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "HALF_TIME",
     "links": [
       {
         "name": "Italy U16 VS Spain U16",
-        "url": "https://pull.fmp.live/sla/1-6aaa6fb614cfe5ec670de8cb.m3u8?auth_key=1789658761-0-0-e4adc1a180072d4410e4bafa15585d8f"
+        "url": "https://pull.fmp.live/sla/1-6aaa6fb614cfe5ec670de8cb.m3u8?auth_key=1789660381-0-0-a0d9c6d6309d93d2632fb174f364a793"
+      }
+    ]
+  },
+  {
+    "id": "53578",
+    "home_name": "Hungary U16",
+    "home_img": "https://s.fmp.live/live/teams/logos/11824.png",
+    "away_name": "Slovenia U16",
+    "away_img": "https://s.fmp.live/live/teams/logos/17752.png",
+    "league": "International Friendly",
+    "match_time": "2026-09-17T16:15:00+08:00",
+    "match_status": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Hungary U16 VS Slovenia U16",
+        "url": "https://pull.fmp.live/sla/1-6aaa6fb614cfe5ec670de8ce.m3u8?auth_key=1789660381-0-0-517b9351fe10c416a064703dda3a6fbf"
+      }
+    ]
+  },
+  {
+    "id": "53579",
+    "home_name": "Machida Zelvia",
+    "home_img": "https://s.fmp.live/live/teams/logos/25413.png",
+    "away_name": "Preah Khan Reach Svay Rieng FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/30326.png",
+    "league": "AFC Champions League Two",
+    "match_time": "2026-09-17T16:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "မာချီဒါ ဇယ်(လ်)ဗီယား VS ပရိကန်ရိချ် ဆွိုင်ရိန်း အက်ဖ်စီ",
+        "url": "https://pull.fmp.live/sla/1-6a8b1212bd56ad3e896dc41e.m3u8?auth_key=1789660381-0-0-1a771ffb2f98893396dbc2982f32d68e"
+      }
+    ]
+  },
+  {
+    "id": "53580",
+    "home_name": "Lion City Sailors",
+    "home_img": "https://s.fmp.live/live/teams/logos/12238.png",
+    "away_name": "BG Pathum United",
+    "away_img": "https://s.fmp.live/live/teams/logos/25287.png",
+    "league": "AFC Champions League Two",
+    "match_time": "2026-09-17T16:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "လိုက်ယွန် စီးတီး ဆေလ်လာစ် VS ဘီ-ဂျီ ပသူမ် ယူနိုက်တက်",
+        "url": "https://pull.fmp.live/sla/1-6a8b1212bd56ad3e896dc41f.m3u8?auth_key=1789660381-0-0-df92fb46a3eea19ae18bcacc53e69343"
+      }
+    ]
+  },
+  {
+    "id": "53581",
+    "home_name": "Adelaide United",
+    "home_img": "https://s.fmp.live/live/teams/logos/15569.png",
+    "away_name": "Tai Po",
+    "away_img": "https://s.fmp.live/live/teams/logos/15751.png",
+    "league": "AFC Champions League Two",
+    "match_time": "2026-09-17T16:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "အက်ဒလိတ် ယူနိုက်တက် VS တိုင်း ပေါ်",
+        "url": "https://pull.fmp.live/sla/1-6a8b1212bd56ad3e896dc420.m3u8?auth_key=1789660381-0-0-c340f5bf07b615b1cc9715049b7d7a32"
       }
     ]
   }

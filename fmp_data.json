@@ -1,24 +1,5 @@
 [
   {
-    "id": "53570",
-    "home_name": "FC United Stars",
-    "home_img": "https://s.fmp.live/live/teams/logos/90393.png",
-    "away_name": "Asc And Center FC",
-    "away_img": "https://s.fmp.live/live/teams/logos/72641.png",
-    "league": "Indian Bangalore Super Division",
-    "match_time": "2026-09-17T12:00:00+08:00",
-    "match_status": true,
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "SECOND_HALF",
-    "links": [
-      {
-        "name": "အက်ဖ်စီ ယူနိုက်တက် စတားစ် VS Asc And Center FC",
-        "url": "https://pull.fmp.live/sla/1-6aaa53962550b2f566e992b3.m3u8?auth_key=1789651202-0-0-5f53a3ca33755839628fcb40bd509281"
-      }
-    ]
-  },
-  {
     "id": "53571",
     "home_name": "Thailand Women",
     "home_img": "https://s.fmp.live/live/teams/logos/17912.png",
@@ -29,11 +10,11 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "SECOND_HALF",
     "links": [
       {
         "name": "Thailand Women VS Chinese Taipei Women",
-        "url": "https://pull.fmp.live/sla/1-6a8b1212bd56ad3e896dc41c.m3u8?auth_key=1789651202-0-0-def0f3b5cc9b7aa633410585731c76a5"
+        "url": "https://pull.fmp.live/sla/1-6a8b1212bd56ad3e896dc41c.m3u8?auth_key=1789654141-0-0-aa72dad2be9af56b1bafb073f428e5e9"
       }
     ]
   },
@@ -47,12 +28,12 @@
     "match_time": "2026-09-17T13:30:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 1,
-    "status": "FIRST_HALF",
+    "awayScore": 2,
+    "status": "SECOND_HALF",
     "links": [
       {
         "name": "Bangladesh Women VS South Korea Women",
-        "url": "https://pull.fmp.live/sla/1-6a8b1212bd56ad3e896dc41b.m3u8?auth_key=1789651202-0-0-ed4fc326d8ba2bbe309db5216e567267"
+        "url": "https://pull.fmp.live/sla/1-6a8b1212bd56ad3e896dc41b.m3u8?auth_key=1789654141-0-0-d4ea300ce0d56cc8f0408bad9acc10d9"
       }
     ]
   },
@@ -65,13 +46,13 @@
     "league": "China Youth Football League (Men's U13 Group)",
     "match_time": "2026-09-17T13:30:00+08:00",
     "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FIRST_HALF",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "SECOND_HALF",
     "links": [
       {
         "name": "ပေကျင်း ကော်အန်း ယူ-၁၃ VS Shanghai Shenhua U13",
-        "url": "https://pull.fmp.live/sla/1-6aaaa7f49a962fec68532076.m3u8?auth_key=1789651202-0-0-844aa1f2d32d771bb4f1b08f63466c68"
+        "url": "https://pull.fmp.live/sla/1-6aaaa7f49a962fec68532076.m3u8?auth_key=1789654141-0-0-65d7719b954dfdfcd1097c6eec35ca64"
       }
     ]
   },
@@ -86,11 +67,49 @@
     "match_status": true,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "FIRST_HALF",
+    "status": "SECOND_HALF",
     "links": [
       {
         "name": "ဝူဟန် သရီး တောင်းစ် ယူ-၁၅ VS ပေကျင်း အမှတ် (၃) အထက်တန်းကျောင်း ယူ-၁၅",
-        "url": "https://pull.fmp.live/sla/1-6aaaa7f49a962fec68532072.m3u8?auth_key=1789651202-0-0-3c05e8b98a7277001de245074e75e034"
+        "url": "https://pull.fmp.live/sla/1-6aaaa7f49a962fec68532072.m3u8?auth_key=1789654141-0-0-7f8924bee8cb4e04999b8fae710ec807"
+      }
+    ]
+  },
+  {
+    "id": "53575",
+    "home_name": "Central Stallions",
+    "home_img": "https://s.fmp.live/live/teams/logos/57043.png",
+    "away_name": "Hunters FC",
+    "away_img": "https://s.fmp.live/live/teams/logos/62514.png",
+    "league": "Mongolia Premier League",
+    "match_time": "2026-09-17T14:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Central Stallions VS Hunters FC",
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524422.m3u8?auth_key=1789654141-0-0-c611fd33356903e1bb6d4f36824a1510"
+      }
+    ]
+  },
+  {
+    "id": "53576",
+    "home_name": "Rebels FC",
+    "home_img": "https://s.fmp.live/live/teams/logos/51577.png",
+    "away_name": "MEG",
+    "away_img": "https://s.fmp.live/live/teams/logos/39664.png",
+    "league": "Indian Bangalore Super Division",
+    "match_time": "2026-09-17T14:30:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FIRST_HALF",
+    "links": [
+      {
+        "name": "Rebels FC VS MEG",
+        "url": "https://pull.fmp.live/sla/1-6aaa6fb614cfe5ec670de8ca.m3u8?auth_key=1789654141-0-0-80578217d34df50ae01266152e21df9b"
       }
     ]
   }

@@ -7,10 +7,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/62514.png",
     "league": "Mongolia Premier League",
     "match_time": "2026-09-17T14:30:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 1,
     "awayScore": 0,
-    "status": "SECOND_HALF",
+    "status": "OPENED",
     "links": [
       {
         "name": "Central Stallions VS Hunters FC",
@@ -26,10 +26,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/39664.png",
     "league": "Indian Bangalore Super Division",
     "match_time": "2026-09-17T14:30:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "HALF_TIME",
+    "status": "OPENED",
     "links": [
       {
         "name": "Rebels FC VS MEG",
@@ -45,10 +45,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/16324.png",
     "league": "International Friendly",
     "match_time": "2026-09-17T15:30:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 1,
-    "status": "FIRST_HALF",
+    "status": "OPENED",
     "links": [
       {
         "name": "Italy U16 VS Spain U16",

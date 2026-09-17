@@ -8,32 +8,13 @@
     "league": "Mongolia Premier League",
     "match_time": "2026-09-17T14:30:00+08:00",
     "match_status": true,
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Central Stallions VS Hunters FC",
-        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524422.m3u8?auth_key=1789657622-0-0-8c1427fe75784793bac5cf52cbbe8918"
-      }
-    ]
-  },
-  {
-    "id": "53576",
-    "home_name": "Rebels FC",
-    "home_img": "https://s.fmp.live/live/teams/logos/51577.png",
-    "away_name": "MEG",
-    "away_img": "https://s.fmp.live/live/teams/logos/39664.png",
-    "league": "Indian Bangalore Super Division",
-    "match_time": "2026-09-17T14:30:00+08:00",
-    "match_status": true,
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "HALF_TIME",
-    "links": [
-      {
-        "name": "Rebels FC VS MEG",
-        "url": "https://pull.fmp.live/sla/1-6aaa6fb614cfe5ec670de8ca.m3u8?auth_key=1789657622-0-0-44e7695b6e88e7772cd18e1c86d76ab9"
+        "url": "https://pull.fmp.live/sla/1-6aa448d5b29a32ad12524422.m3u8?auth_key=1789658282-0-0-300e001df766e6b4d9ea21406c09c62a"
       }
     ]
   },
@@ -52,7 +33,7 @@
     "links": [
       {
         "name": "Italy U16 VS Spain U16",
-        "url": "https://pull.fmp.live/sla/1-6aaa6fb614cfe5ec670de8cb.m3u8?auth_key=1789657622-0-0-d01c38c2c9164146de01d68efc99d1e3"
+        "url": "https://pull.fmp.live/sla/1-6aaa6fb614cfe5ec670de8cb.m3u8?auth_key=1789658282-0-0-d0d51aca3cff9eb0f651d6cdf148a43f"
       }
     ]
   }

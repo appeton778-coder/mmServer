@@ -1,0 +1,21 @@
+[
+  {
+    "id": "53683",
+    "home_name": "Philippines U23",
+    "home_img": "https://s.fmp.live/live/teams/logos/24150.png",
+    "away_name": "Vietnam U23",
+    "away_img": "https://s.fmp.live/live/teams/logos/17827.png",
+    "league": "OCA Asian Games",
+    "match_time": "2026-09-18T13:00:00+08:00",
+    "match_status": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "SECOND_HALF",
+    "links": [
+      {
+        "name": "Philippines U23 VS ဗီယက်နမ် ယူ-၂၃",
+        "url": "https://pull.fmp.live/sla/1-6a8c637e96e1cc910f3885f9.m3u8?auth_key=1789738561-0-0-b55af18f818aa3683a9fda4602716dde"
+      }
+    ]
+  }
+]

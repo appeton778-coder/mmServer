@@ -7,10 +7,10 @@
     "away_img": "https://s.fmp.live/live/teams/logos/17827.png",
     "league": "OCA Asian Games",
     "match_time": "2026-09-18T13:00:00+08:00",
-    "match_status": true,
+    "match_status": false,
     "homeScore": 0,
     "awayScore": 0,
-    "status": "SECOND_HALF",
+    "status": "OPENED",
     "links": [
       {
         "name": "Philippines U23 VS ဗီယက်နမ် ယူ-၂၃",

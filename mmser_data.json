@@ -14,7 +14,26 @@
     "links": [
       {
         "name": "Philippines U23 VS ဗီယက်နမ် ယူ-၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a8c637e96e1cc910f3885f9.m3u8?auth_key=1789739162-0-0-71323b9a24bd2d2d0e60903beaed778a"
+        "url": "https://pull.fmp.live/sla/1-6a8c637e96e1cc910f3885f9.m3u8?auth_key=1789739461-0-0-1ed383e8336536b81bf5cb160bfe38b7"
+      }
+    ]
+  },
+  {
+    "id": "53684",
+    "home_name": "Real Bengaluru",
+    "home_img": "https://s.fmp.live/live/teams/logos/86161.png",
+    "away_name": "Bengaluru B",
+    "away_img": "https://s.fmp.live/live/teams/logos/43957.png",
+    "league": "Indian Bangalore Super Division",
+    "match_time": "2026-09-18T14:30:00+08:00",
+    "match_status": false,
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NOT_STARTED",
+    "links": [
+      {
+        "name": "ရီးရယ်လ် ဘန်ဂလို VS Bengaluru B",
+        "url": "https://pull.fmp.live/sla/1-6aab97007cb66c539ad10afc.m3u8?auth_key=1789739461-0-0-90a33cc3e4a913daf9831dee7e13f21b"
       }
     ]
   }

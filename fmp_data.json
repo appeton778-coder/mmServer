@@ -7,14 +7,14 @@
     "away_img": "https://s.fmp.live/live/teams/logos/43957.png",
     "league": "Indian Bangalore Super Division",
     "match_time": "2026-09-18T14:30:00+08:00",
-    "match_status": false,
+    "match_status": true,
     "homeScore": 0,
     "awayScore": 1,
-    "status": "OPENED",
+    "status": "FIRST_HALF",
     "links": [
       {
         "name": "ရီးရယ်လ် ဘန်ဂလို VS Bengaluru B",
-        "url": "https://pull.fmp.live/sla/1-6aab97007cb66c539ad10afc.m3u8?auth_key=1789741981-0-0-7fac4abe70df5bdc41c4b05182deda4a"
+        "url": "https://pull.fmp.live/sla/1-6aab97007cb66c539ad10afc.m3u8?auth_key=1789742341-0-0-4949be40dd238fa335376190d7a34bbc"
       }
     ]
   }

@@ -9,12 +9,12 @@
     "match_time": "2026-09-18T13:00:00+08:00",
     "match_status": true,
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "SECOND_HALF",
     "links": [
       {
         "name": "Philippines U23 VS ဗီယက်နမ် ယူ-၂၃",
-        "url": "https://pull.fmp.live/sla/1-6a8c637e96e1cc910f3885f9.m3u8?auth_key=1789739942-0-0-f7e0515f657d32738e81510b90f50995"
+        "url": "https://pull.fmp.live/sla/1-6a8c637e96e1cc910f3885f9.m3u8?auth_key=1789740181-0-0-2ce0472c7878d3358c4ae076cd76413d"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "links": [
       {
         "name": "ရီးရယ်လ် ဘန်ဂလို VS Bengaluru B",
-        "url": "https://pull.fmp.live/sla/1-6aab97007cb66c539ad10afc.m3u8?auth_key=1789739942-0-0-ed1bdb8c3521fc89353144958a5941d3"
+        "url": "https://pull.fmp.live/sla/1-6aab97007cb66c539ad10afc.m3u8?auth_key=1789740181-0-0-760eb2b5f35a25c14db67e7a0e66ff78"
       }
     ]
   }
